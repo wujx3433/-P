@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         强制使用https
+// @name         寮哄埗浣跨敤https
 // @name:en  	Visit with https by force
 // @version      0.1 Beta
-// @description  在includes里添加网站，然后在访问这些网站时就会自动变成https
-// @description:en Type the URL into 'inclide', and it will change 'http'to 'https' when you bisit thede website
+// @description  鍦╥ncludes閲屾坊鍔犵綉绔欙紝鐒跺悗鍦ㄨ闂繖浜涚綉绔欐椂灏变細鑷姩鍙樻垚https
+// @description:en Type the URL into 'inclide', and it will change 'http'to 'https' when you Visit the website
 // @author       Care L.
 // @namespace	https://weibo.com/CareKun
 // @grant       GM_xmlhttpRequest
@@ -15,9 +15,16 @@
 // @include		*://www.pixivision.net/*
 // @include		*://static.hdslb.com/*
 // @include		*://github.com/*
+// @connect     i.pximg.net
+// @connect     i1.pixiv.net
+// @connect     i2.pixiv.net
+// @connect     i3.pixiv.net
+// @connect     i4.pixiv.net
+// @connect     i5.pixiv.net
+// @connect     imgaz.pixiv.net
 // ==/UserScript==
 /* 
-*@author: 	智能P Care L.
+*@author: 	鏅鸿兘P Care L.
 *@E-mail: 	careluu@foxmail.com
  */
 
