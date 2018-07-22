@@ -15,7 +15,6 @@
 // @include		*://www.pixivision.net/*
 // @include		*://static.hdslb.com/*
 // @include		*://github.com/*
-// @include		*://www.acfun.cn/*
 // @connect     i.pximg.net
 // @connect     i1.pixiv.net
 // @connect     i2.pixiv.net
@@ -24,9 +23,10 @@
 // @connect     i5.pixiv.net
 // @connect     imgaz.pixiv.net
 
+// @exclude		*://www.acfun.cn/*
 // @exclude     *://*.163.com/*
 // ==/UserScript==
-/* 
+/*
 *@author: 	智能P Care L.
 *@E-mail: 	careluu@foxmail.com
  */
